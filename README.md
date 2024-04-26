@@ -2,13 +2,13 @@
 
 This is a simple Helo World program in python practicing using Git and GitHub.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](youtube_link)
 
 # Development Environment
 
 * Python 3.10.11
 * Visual Studio Code
-* git and github
+* Git and GitHub
 
 # Useful Websites
 
