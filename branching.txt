@@ -1,0 +1,9 @@
+This is notes of comandline (terminal) for branching on Git
+git branch
+    This displays all the branches and which branch you are on
+git checkout -b branchname
+    creates a new branch with the name "branchname"
+git checkout "branchname"
+    moves you to the branch "branchname"
+git merge "branchname"
+    merges the branch "branchname" into the branch you are currently on
